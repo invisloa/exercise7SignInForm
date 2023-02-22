@@ -1,0 +1,24 @@
+body{
+}
+div{
+    margin-top: 5rem;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+div form{
+margin: 0 auto; 
+   width: 30rem;
+   
+}
+input[type=text]:focus, input[type=email]:focus{
+    outline: 2px solid rgb(60, 0, 129);     /* oranges! yey */
+  }
+.SignInButton
+{
+    display: block;
+    margin: auto;
+    width: 100%;
+    border-radius: 30px;
+    background-color: rgb(75, 75, 250);
+}
+
